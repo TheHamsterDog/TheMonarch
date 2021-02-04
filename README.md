@@ -10,11 +10,7 @@ It deletes messages that contain a swear, and replies back with a randomly gener
   It randomly compliments moderators.
 
 # Credits
-  The Api That I used for generating insults is https://evilinsult.com/generate_insult.php?lang=en&type=json
-  
-  The Api that I used for generating compliments is https://complimentr.com/api
-  
-  I used https://www.npmjs.com/package/noswearing to detect if a word is a swear or not.
+ 
 
   I got the image for the bot's profile pic from:- https://i.pinimg.com/originals/54/88/ec/5488ec11fa38d85b904cf958f7bdf9c0.jpg
   
