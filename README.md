@@ -2,7 +2,7 @@
   This is a discord bot that deletes people's swears and replies back with an insult. IT sometimes even randomly replies to people with insults. Basically, it's a troll bot.
 
 # Features:-
-It deletes all of the messages that contain a swear, and reply back with a randomly generated insult; unless the message is from a moderator or someone who can kick people from the server, in that case, it'll just politely ask the mod to not swear.
+It deletes messages that contain a swear, and replies back with a randomly generated insult; unless the message is from a moderator or someone who can kick people from the server, in that case, it'll just politely ask the mod to not swear.
 
   It randomly insults everyone who isn't a moderator.
 
