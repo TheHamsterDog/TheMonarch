@@ -1,6 +1,7 @@
 # TheMonarch
   This is a discord bot that deletes people's swears and replies back with an insult. IT sometimes even randomly replies to people with insults. Basically, it's a troll bot.
-
+# Update:
+  This bot isn't running on a server anymore; however, you can still download this code, add your API keys, and then run it on your own.
 # Features:-
 It deletes messages that contain a swear, and replies back with a randomly generated insult; unless the message is from a moderator or someone who can kick people from the server, in that case, it'll just politely ask the mod to not swear.
 
